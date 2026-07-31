@@ -1,2 +1,2 @@
 Experiments with neural networks, railroad crossing prediction
-Year 2020
+June-July 2020
